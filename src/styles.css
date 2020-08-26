@@ -1,0 +1,15 @@
+.App {
+  font-family: Abel, sans-serif;
+  text-align: left;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.full_section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
